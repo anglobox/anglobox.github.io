@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(144, 205, 255);
+    margin: 0px;
+}
+
+.titulo {
+    text-align: center;
+    border: 2px solid white;
+    background-color: rgb(0, 10, 150);
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}
+
+form {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+.imgs_w_e {
+    width: 30px;
+    height: 20px;
+}
+
+.estrelas {
+    background-color: black;
+    font-size: 100px;
+    text-align: center;
+    margin: 0px;
+
+
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+.enviar {
+    text-align: center; 
+}
+.enviartamanho { width: 100px ; height: 40px;}
