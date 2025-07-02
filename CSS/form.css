@@ -1,0 +1,60 @@
+body {
+    background-color: #141A32;
+    margin: 0px;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+.titulo {
+    color: rgb(236, 91, 33);
+    text-align: center;
+    border: 5px solid rgb(236, 91, 33);
+    background-color: #141A32;
+    border-radius: 10px;
+}
+
+.borda {
+    border: 5px solid rgb(236, 91, 33);
+    border-radius: 10px;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}
+
+form {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+.imgs_w_e {
+    width: 30px;
+    height: 20px;
+}
+
+.estrelas {
+    background-color: black;
+    font-size: 100px;
+    text-align: center;
+    margin: 0px;
+
+
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+.enviar {
+    text-align: center;
+}
+
+.enviartamanho {
+    width: 100px;
+    height: 40px;
+    margin-bottom: 20px;
+
+}
